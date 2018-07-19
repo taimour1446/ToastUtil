@@ -3,14 +3,11 @@ ToastUtil library for Android Applications to easily show Toasts in a decent way
 
 # Screenshots
 
-<img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095232.jpg " width="48">
-<img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095240.jpg " width="48">
-<img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095247.jpg " width="48">
-<img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095253.jpg " width="48">
+<img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095232.jpg " width="48"> <img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095240.jpg " width="48"> <img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095247.jpg " width="48"> <img src="https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095253.jpg " width="48">
 
-![alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095232.jpg | width=48) ![alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095240.jpg | width=48) 
-![alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095247.jpg | width=48) 
-![alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095253.jpg | width=48) 
+![alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095232.jpg) [alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095240.jpg ) 
+[alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095247.jpg) 
+[alt text](https://github.com/taimour1446/ToastUtil/blob/master/Screenshots/Screenshot_20180719-095253.jpg) 
 
 
 
